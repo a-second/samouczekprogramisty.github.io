@@ -34,7 +34,7 @@ Standardowo na wersję oprogramowania składają się trzy osobne liczby. Mówi�
 - 0 – (and. _patch_) kolejny numer wersji w tym członie symbolizuje zbiór łatek.
   
   
-Jako łatkę (ang. _patch_) możemy traktować fragment kodu poprawiający błędy (ang. _bugs_) znalezione w starszej wersji oprogramowania. Zbiór łatek przeważnie grupowany jest w osobne wersje. Np. wersja 2.7.1 zawierająca kila łatek poprawia błędy znalezione w wersji 2.7.0.
+Jako łatkę (ang. _patch_) możemy traktować fragment kodu poprawiający błędy (ang. _bugs_) znalezione w starszej wersji oprogramowania. Zbiór łatek przeważnie grupowany jest w osobne wersje. Np. wersja 2.7.1 zawierająca kilka łatek poprawia błędy znalezione w wersji 2.7.0.
 
 A teraz kilka przykładów:
 
